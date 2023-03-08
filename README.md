@@ -1,32 +1,42 @@
-# Hi there, I'm Andres Vazquez 👋
+# Hi, I'm Andres Vazquez 👋
 
 I am a Computer Science graduate from Concordia University. My biggest passion is mobile app development; primarily, iOS (Swift).
 
-I love Apple devices, especially my iPhone. As a result, I decided to learn how to build iOS apps (Swift, SwiftUI, UIKit) by following great online resources. Most notably, I completed the following courses:
+I love Apple devices, especially my iPhone. As a result, I decided to learn how to build iOS apps (Swift, SwiftUI and UIKit) by following great online resources. Most notably, I completed the following courses:
 
-- Stanford University course - CS193p: Developing Applications for iOS (by Professor Paul Hegarty)
+- Stanford University course - CS193p: Developing Applications for iOS using SwiftUI (by Professor Paul Hegarty)
 - 100 Days of Swift and SwiftUI by Paul Hudson (Hacking with Swift)
 
 All of the code that I wrote (theory, challenges and assignments) for said courses can be found on my GitHub page.
 
 With the knowledge I acquired from these courses, I developed the MovieTime App 😄
 
+
 ## MovieTime App ([See more information](https://github.com/andavazgar/MovieTime))
 MovieTime is an app that uses The Movie Database API (TMDB) to allow users to keep track of the movies they want to watch (Watchlist) and where they can watch them (Streaming services).
 
-### Preview (YouTube Video)
-[![MovieTime App Preview Video Thumbnail](https://img.youtube.com/vi/DcC_YsreqoE/maxresdefault.jpg)](https://www.youtube.com/watch?v=DcC_YsreqoE "MovieTime App Preview Video. Click here to watch it!")
+[![MovieTime App Preview](https://github.com/andavazgar/MovieTime/raw/main/Demo/Preview+Background.gif)](https://github.com/andavazgar/MovieTime)
 
-[![Thumbnails of MovieTime App](https://raw.githubusercontent.com/andavazgar/MovieTime/main/Screenshots/MovieTimeApp.png)](https://github.com/andavazgar/MovieTime)
+[![MovieTime App Thumbnails](https://github.com/andavazgar/MovieTime/raw/main/Demo/Thumbnails/MovieTimeApp.png)](https://github.com/andavazgar/MovieTime)
 
 
-## Milestones from *100 Days of SwiftUI*
+## Projects from *CS193p: Developing Applications for iOS using SwiftUI* ([See more information](https://github.com/andavazgar/CS193p))
+<div>
+	<a href="https://github.com/andavazgar/Memorize">
+		<img src="https://github.com/andavazgar/Memorize/raw/main/Demo/Preview.gif" alt="Memorize App Preview" width="24%">
+	</a>
+	<a href="https://github.com/andavazgar/SetGame">
+		<img src="https://github.com/andavazgar/SetGame/raw/main/Demo/Preview.gif" alt="SetGame App Preview" width="24%">
+	</a>
+	<a href="https://github.com/andavazgar/EmojiArt">
+		<img src="https://github.com/andavazgar/EmojiArt/raw/main/Demo/Preview.gif" alt="EmojiArt App Preview" width="50%">
+	</a>
+</div>
+
+
+## Milestones from *100 Days of SwiftUI* ([See more information](https://github.com/andavazgar/100DaysOfSwiftUI))
 ### Milestone 2: MultiplicationTables ([See more information](https://github.com/andavazgar/100DaysOfSwiftUI/tree/master/MultiplicationTables))
-[![Milestone 2](https://raw.githubusercontent.com/andavazgar/100DaysOfSwiftUI/master/MultiplicationTables/Screenshots/Thumbnails/Combined.png)](https://github.com/andavazgar/100DaysOfSwiftUI/tree/master/MultiplicationTables)
-
-
-### Milestone 4: Friendface ([See more information](https://github.com/andavazgar/100DaysOfSwiftUI/tree/master/Friendface))
-[![Milestone 4](https://raw.githubusercontent.com/andavazgar/100DaysOfSwiftUI/master/Friendface/Screenshots/Thumbnails/Combined.png)](https://github.com/andavazgar/100DaysOfSwiftUI/tree/master/Friendface)
+[![Milestone 2](https://github.com/andavazgar/100DaysOfSwiftUI/raw/master/MultiplicationTables/Screenshots/Thumbnails/Combined.png)](https://github.com/andavazgar/100DaysOfSwiftUI/tree/master/MultiplicationTables)
 
 ### Milestone 5: MeetupContacts ([See more information](https://github.com/andavazgar/100DaysOfSwiftUI/tree/master/MeetupContacts))
-[![Milestone 5](https://raw.githubusercontent.com/andavazgar/100DaysOfSwiftUI/master/MeetupContacts/Screenshots/Thumbnails/Combined.png)](https://github.com/andavazgar/100DaysOfSwiftUI/tree/master/MeetupContacts)
+[![Milestone 5](https://github.com/andavazgar/100DaysOfSwiftUI/raw/master/MeetupContacts/Screenshots/Thumbnails/Combined.png)](https://github.com/andavazgar/100DaysOfSwiftUI/tree/master/MeetupContacts)
