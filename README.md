@@ -1,4 +1,4 @@
-![Banner Image](Banner.jpg)
+![Banner Image](Banner.png)
 
 I am a Computer Science graduate from Concordia University. My biggest passion is mobile app development; primarily, iOS (Swift).
 
