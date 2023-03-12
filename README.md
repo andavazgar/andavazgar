@@ -1,4 +1,4 @@
-# Hi, I'm Andres Vazquez 👋
+[Banner Image](Banner.jpg)
 
 I am a Computer Science graduate from Concordia University. My biggest passion is mobile app development; primarily, iOS (Swift).
 
