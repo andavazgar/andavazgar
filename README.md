@@ -2,9 +2,9 @@
 
 I am a Computer Science graduate from Concordia University. My biggest passion is mobile app development; primarily, iOS (Swift).
 
-I love Apple devices, especially my iPhone. As a result, I decided to learn how to build iOS apps (Swift, SwiftUI and UIKit) by following great online resources. Most notably, I completed the following courses:
+Being able to create apps that help people achieve a goal is extremely rewarding. Because of this, I decided to learn how to build iOS apps (Swift, SwiftUI and UIKit) by following great online resources. Most notably, I completed the following courses:
 
-- Stanford University course - CS193p: Developing Applications for iOS using SwiftUI (by Professor Paul Hegarty)
+- Stanford University | CS193p: Developing Applications for iOS using SwiftUI (by Professor Paul Hegarty)
 - 100 Days of Swift and SwiftUI by Paul Hudson (Hacking with Swift)
 
 All of the code that I wrote (theory, challenges and assignments) for said courses can be found on my GitHub page.
