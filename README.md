@@ -9,10 +9,10 @@ Being able to create apps that help people achieve a goal is extremely rewarding
 
 All of the code that I wrote (theory, challenges and assignments) for said courses can be found on my GitHub page.
 
-With the knowledge I acquired from these courses, I am developing the MovieTime App 😄
+With the knowledge I acquired from these courses, I am developing the MovieTime app. 😄
 
 
-## MovieTime App ([See more information](https://github.com/andavazgar/MovieTime))
+## MovieTime ([See more information](https://github.com/andavazgar/MovieTime))
 MovieTime is an app that uses The Movie Database API (TMDB) to allow users to keep track of the movies they want to watch (Watchlist) and where they can watch them (Streaming services).
 
 [![MovieTime App Preview](https://github.com/andavazgar/MovieTime/raw/main/Demo/Preview+Background.gif)](https://github.com/andavazgar/MovieTime)
