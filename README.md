@@ -9,7 +9,7 @@ Being able to create apps that help people achieve a goal is extremely rewarding
 
 All of the code that I wrote (theory, challenges and assignments) for said courses can be found on my GitHub page.
 
-With the knowledge I acquired from these courses, I developed the MovieTime App 😄
+With the knowledge I acquired from these courses, I am developing the MovieTime App 😄
 
 
 ## MovieTime App ([See more information](https://github.com/andavazgar/MovieTime))
