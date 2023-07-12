@@ -1,15 +1,16 @@
 ![Banner Image](Banner.png)
 
-I am a Computer Science graduate from Concordia University. My biggest passion is mobile app development; primarily, iOS (Swift).
+I am a self-motivated web and mobile developer. I strive to continuously learn new technologies and improve my abilities as a programmer. I have experience developing applications using Java, PHP, Swift, JavaScript and TypeScript.
 
-Being able to create apps that help people achieve a goal is extremely rewarding. Because of this, I decided to learn how to build iOS apps (Swift, SwiftUI and UIKit) by following great online resources. Most notably, I completed the following courses:
+In the last few years, I have learned how to develop mobile applications by following great online resources. Most notably, I completed the following courses:
 
-- Stanford University | CS193p: Developing Applications for iOS using SwiftUI (by Professor Paul Hegarty)
-- 100 Days of Swift and SwiftUI by Paul Hudson (Hacking with Swift)
+- Stanford University’s CS193p: Developing Applications for iOS using SwiftUI ([cs193p.sites.stanford.edu](https://cs193p.sites.stanford.edu))
+- 100 Days of Swift & 100 Days of SwiftUI by Paul Hudson ([hackingwithswift.com](https://hackingwithswift.com/100/swiftui))
+- React Native courses by Code with Mosh ([codewithmosh.com](https://codewithmosh.com/p/the-ultimate-react-native-course)) and Design+Code ([designcode.io](https://designcode.io/react-native))
 
-All of the code that I wrote (theory, challenges and assignments) for said courses can be found on my GitHub page.
+Some of the projects that I completed during these courses can be found below.
 
-With the knowledge I acquired from these courses, I am developing the MovieTime app. 😄
+After completing said courses, I decided build an iOS app called MovieTime. This app has helped me further develop my programming skills as well as my knowledge in the area of mobile development.
 
 
 ## MovieTime ([See more information](https://github.com/andavazgar/MovieTime))
